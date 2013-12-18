@@ -1,0 +1,11 @@
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\02_SlideShow.exe
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\02_SlideShow.pdb
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\Sifteo.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\JsonFx.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\obj\x86\Debug\02_SlideShow.exe
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\obj\x86\Debug\02_SlideShow.pdb
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\Apache.NMS.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\Ionic.Zip.dll
+C:\Sifteo\Sifteo-SDK-1_1_3\demos\02_SlideShow\bin\Debug\Apache.NMS.ActiveMQ.pdb
