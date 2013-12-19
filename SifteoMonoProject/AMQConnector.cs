@@ -97,9 +97,9 @@ namespace SlideShow
 			string text = m_reader.ReadToEnd();
 			//SendEventOverSIP(text, _cEvent.GetType());
 
-			ITextMessage request = activeMQSession.CreateTextMessage (text);
-			request.NMSType = se.GetType().ToString ();
-			activeMQProducer.Send (request);
+			//	ITextMessage request = activeMQSession.CreateTextMessage (text);
+			//request.NMSType = se.GetType().ToString ();
+			//activeMQProducer.Send (request);
 		}
 	
 

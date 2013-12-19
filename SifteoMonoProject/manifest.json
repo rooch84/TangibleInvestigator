@@ -1,6 +1,6 @@
 {"app": {
-    "title": "02. Slide Show",
-    "description": "This demo app displays a series of images on your Sifteo cubes. Different gestures trigger different actions on the images: <ul> <li>Press: Switch to the next image</li> <li>Neighbor: rotate the image</li> <li>Tilt: offset the image</li> <li>Shake: rotate the image randomly</li> <li>Flip: scale the image</li> </ul>",
+    "title": "Tangible Investigator",
+    "description": "This prototype is to be used with the Tangible Investigator desktop application.  Nine suspects have been linked with drug trafficing, who would you arrest?",
     "version": "1.0.0",
     "runtime" : "executable",
     "server" : "127.0.0.1:7000",

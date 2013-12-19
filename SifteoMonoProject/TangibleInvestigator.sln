@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SlideShow", "02_SlideShow.csproj", "{D5798996-A44F-443E-81C2-7F421CA9D2FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangibleInvestigator", "TangibleInvestigator.csproj", "{D5798996-A44F-443E-81C2-7F421CA9D2FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,7 +91,7 @@ Global
 		{EFF58A07-4017-4081-AE4E-B9A077AB24C6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = 02_SlideShow.csproj
+		StartupItem = TangibleInvestigator.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

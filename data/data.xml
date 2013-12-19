@@ -1,0 +1,612 @@
+<root>
+	<suspects>
+		<suspect>
+			<name>David Pico</name>
+			<address>Flat 5a, 26 Spicer Road, Exeter</address>
+			<description>Minor criminal known to the local police</description>
+			<image>images/suspects/pico.png</image>
+			<alias>pico</alias>
+		</suspect>
+		<suspect>
+			<name>Jake Ajachinsky</name>
+			<address>17, Park Lane, Leeds</address>
+			<description>Minor criminal know to the local police; friends with David Pico</description>
+			<image>images/suspects/ajachinsky.png</image>
+			<alias>j_ajachinsky</alias>
+		</suspect>
+		<suspect>
+			<name>Denise Ajachinsky</name>
+			<address>17, Park Lane, Leeds</address>
+			<description>Sister of Jake Ajachinsky; ex-girlfriend of David Pico</description>
+			<image>images/suspects/d_ajachinsky.png</image>
+			<alias>d_ajachinsky</alias>
+		</suspect>
+		<suspect>
+			<name>Kenny Chiappe</name>
+			<address>4, Back Devonshire Lane, Leeds</address>
+			<description>Taxi driver</description>
+			<image>images/suspects/chiappe.png</image>
+			<alias>chiappe</alias>
+		</suspect>
+		<suspect>
+			<name>Pierre Paquidini</name>
+			<address>9, Rue des Anglais, Roskoff</address>
+			<description>Travels often to the UK</description>
+			<image>images/suspects/paquidini.png</image>
+			<alias>paquidini</alias>
+		</suspect>
+		<suspect>
+			<name>Vanessa Munoz</name>
+			<address>16, Rolle Road, Exmouth</address>
+			<description>Assistant manager of Exmouth Marina</description>
+			<image>images/suspects/munoz.png</image>
+			<alias>munoz</alias>
+		</suspect>
+		<suspect>
+			<name>Muriel Grosby</name>
+			<address>1, Roman Terrace, Leeds</address>
+			<description>Own both a haulage company and taxi company in Leeds; suspected in a wide range of crimial activities; shows more wealth than expected; has never been prosecuted by police</description>
+			<image>images/suspects/grosby.png</image>
+			<alias>grosby</alias>
+		</suspect>
+		<suspect>
+			<name>Martina Sarti</name>
+			<address>Flat 4a, 26 Spicer Road, Exeter</address>
+			<description>The girlfriend of the manager of Exmouth Marina</description>
+			<image>images/suspects/sarti.png</image>
+			<alias>sarti</alias>
+		</suspect>
+		<suspect>
+			<name>Jennifer Garlica</name>
+			<address>147, West Park Grove, Leeds</address>
+			<description>Widowed sister-in-law of Murial Grosby; her husband was assassinated last year in a gang war</description>
+			<image>images/suspects/garlica.png</image>
+			<alias>garlica</alias>
+		</suspect>
+	</suspects>
+	<evidenceCollection>
+		<evidence>
+			<name>Cobo's Address (Exeter)</name>
+			<image>images/evidence/1.png</image>
+			<description></description>
+			<locations>
+				<location>exeter</location>
+			</locations>
+			<type>map</type>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ricord's Business (Leeds)</name>
+			<image>images/evidence/2.png</image>
+			<description></description>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<type>photo</type>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ajachinsky's Address (Leeds)</name>
+			<image>images/evidence/3.png</image>
+			<description></description>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<type>map</type>
+			<aliases>
+				<alias>ajachinsky</alias>
+				<alias>d_ajachinsky</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>David's Address (Exmouth)</name>
+			<image>images/evidence/4.png</image>
+			<description></description>
+			<locations>
+				<location>exmouth</location>
+			</locations>
+			<type>map</type>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Map of Leeds, Exeter and Exmouth</name>
+			<image>images/evidence/5.png</image>
+			<description></description>
+			<type>map</type>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Map of Leeds and Pontefract</name>
+			<image>images/evidence/6.png</image>
+			<description></description>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<type>map</type>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Car Abandoned in M62 Services</name>
+			<image>images/evidence/7.png</image>
+			<description></description>
+			<type>article</type>
+			<date>20120717</date>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Tax Trippers Come-down</name>
+			<image>images/evidence/8.png</image>
+			<description></description>
+			<type>article</type>
+			<date>20111205</date>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<aliases>
+				<alias>grosby</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Street Brawl of Jilted Lothario</name>
+			<image>images/evidence/9.png</image>
+			<description></description>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<type>article</type>
+			<date>20120712</date>
+			<aliases>
+				<alias>pico</alias>
+				<alias>d_ajachinsky</alias>
+				<alias>ajachinsky</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Bungling Burglars Botch Break-in</name>
+			<image>images/evidence/10.png</image>
+			<description></description>
+			<locations>
+				<location>exeter</location>
+			</locations>
+			<type>article</type>
+			<date>20120812</date>
+			<aliases>
+				<alias>ajachinsky</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Exmouth Marina Sold</name>
+			<image>images/evidence/11.png</image>
+			<description></description>
+			<type>article</type>
+			<date>20110918</date>
+			<locations>
+				<location>exmouth</location>
+			</locations>
+			<aliases>
+				<alias>grosby</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ajachinsky Statement</name>
+			<image>images/evidence/12.png</image>
+			<type>police statement</type>
+			<date>20120819</date>
+			<description></description>
+			<locations></locations>
+			<aliases>
+				<alias>ajachinsky</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Cobo Statement</name>
+			<image>images/evidence/13.png</image>
+			<type>police statement</type>
+			<date>20120819</date>
+			<locations></locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Calbrese Statement</name>
+			<image>images/evidence/14.png</image>
+			<type>police statement</type>
+			<date>20111112</date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>sarti</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Bocognani Statement</name>
+			<image>images/evidence/15.png</image>
+			<type>police statement</type>
+			<date>20111125</date>
+			<locations>
+				<location>exmouth</location>
+				<location>roskoff</location>
+			</locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Partial Transcript Chiappe Interview</name>
+			<image>images/evidence/16.png</image>
+			<type>police interview</type>
+			<date>20111212</date>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>chiappe</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Pico's Record</name>
+			<image>images/evidence/17.png</image>
+			<type>arrest record</type>
+			<date>20120817</date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>Pico</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ajachinsky’s Record</name>
+			<image>images/evidence/18.png</image>
+			<type>arrest record</type>
+			<date>20120819</date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>Ajachinsky</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Calbrese's Record</name>
+			<image>images/evidence/19.png</image>
+			<type>arrest record</type>
+			<date>20121111</date>
+			<locations>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Chiappe’s Record</name>
+			<image>images/evidence/20.png</image>
+			<type>arrest record</type>
+			<date>20111204</date>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>chiappe</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Man jailed for role in drug smuggling gang</name>
+			<image>images/evidence/21.png</image>
+			<type>article</type>
+			<date>20120614</date>
+			<locations>
+				<location>leeds</location>
+				<location>roskoff</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Exmouth Harbour Master Log (i)</name>
+			<image>images/evidence/22.png</image>
+			<type>harbour log</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Exmouth Harbour Master Log (ii)</name>
+			<image>images/evidence/23.png</image>
+			<type>harbour log</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Grosby Haulage Limited, Leeds</name>
+			<image>images/evidence/24.png</image>
+			<type>finance records</type>
+			<date></date>
+			<locations>
+				<location>exmouth</location>
+				<location>leeds</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>grosby</alias>
+				<alias>sarti</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ricord Accountancy Services, Leeds (i)</name>
+			<image>images/evidence/25.png</image>
+			<type>finance records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>grosby</alias>
+				<alias>pico</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ricord Accountancy Services, Leeds (i)</name>
+			<image>images/evidence/26.png</image>
+			<type>finance records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>grosby</alias>
+				<alias>pico</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ricord Accountancy Services 2011 Client List</name>
+			<image>images/evidence/27.png</image>
+			<type>misc</type>
+			<date></date>
+			<locations>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>grosby</alias>
+				<alias>pasquidini</alias>
+				<alias>garlica</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Exmouth Yacht Club Valentine’s Day Gala Dinner</name>
+			<image>images/evidence/28.png</image>
+			<type>misc</type>
+			<date>20120214</date>
+			<locations>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>munoz</alias>
+				<alias>garlica</alias>
+				<alias>sarti</alias>
+				<alias>grosby</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Exmouth Marina Map</name>
+			<image>images/evidence/29.png</image>
+			<type>map</type>
+			<date></date>
+			<locations>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Grosby Phone Records</name>
+			<image>images/evidence/30.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>garlica</alias>
+				<alias>grosby</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Garlica Phone Records</name>
+			<image>images/evidence/31.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>grosby</alias>
+				<alias>sarti</alias>
+				<alias>garlica</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Pico Phone Records</name>
+			<image>images/evidence/32.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>pico</alias>
+				<alias>ajachinsky</alias>
+				<alias>j_ajachinsky</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Ajachinsky Phone Records</name>
+			<image>images/evidence/33.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>ajachinsky</alias>
+				<alias>j_ajachinsky</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Pasquidini Phone Records</name>
+			<image>images/evidence/34.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>pasquidini</alias>
+				<alias>munoz</alias>
+				<alias>sarti</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Chiappe Phone Records</name>
+			<image>images/evidence/35.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>chiappe</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Munoz Phone Records</name>
+			<image>images/evidence/.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>munoz</alias>
+				<alias>sarti</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Sarti Phone Records</name>
+			<image>images/evidence/37.png</image>
+			<type>phone records</type>
+			<date></date>
+			<locations>
+				<location>leeds</location>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Bertz Van Rental (i)</name>
+			<image>images/evidence/38.png</image>
+			<type>van rental records</type>
+			<date></date>
+			<locations>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>sarti</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Bertz Van Rental (ii)</name>
+			<image>images/evidence/39.png</image>
+			<type></type>
+			<date>van rental records</date>
+			<locations>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>sarti</alias>
+			</aliases>
+		</evidence>
+		<evidence>
+			<name>Bertz Van Rental (iii)</name>
+			<image>images/evidence/40.png</image>
+			<type></type>
+			<date>van rental records</date>
+			<locations>
+				<location>exeter</location>
+				<location>exmouth</location>
+			</locations>
+			<description></description>
+			<aliases>
+				<alias>sarti</alias>
+			</aliases>
+		</evidence>
+
+		
+	</evidenceCollection>
+</root>

@@ -1,0 +1,7 @@
+C:\Users\Chris Rooney\Documents\My Dropbox\CodeRepo\EclipseWorkspace\TangibleInvestigator\SifteoMonoProject\bin\Debug\02_SlideShow.exe
+C:\Users\Chris Rooney\Documents\My Dropbox\CodeRepo\EclipseWorkspace\TangibleInvestigator\SifteoMonoProject\bin\Debug\02_SlideShow.pdb
+C:\Users\Chris Rooney\Documents\My Dropbox\CodeRepo\EclipseWorkspace\TangibleInvestigator\SifteoMonoProject\bin\Debug\Sifteo.dll
+C:\Users\Chris Rooney\Documents\My Dropbox\CodeRepo\EclipseWorkspace\TangibleInvestigator\SifteoMonoProject\bin\Debug\JsonFx.dll
+C:\Users\Chris Rooney\Documents\My Dropbox\CodeRepo\EclipseWorkspace\TangibleInvestigator\SifteoMonoProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris Rooney\Documents\My Dropbox\CodeRepo\EclipseWorkspace\TangibleInvestigator\SifteoMonoProject\obj\x86\Debug\02_SlideShow.exe
+C:\Users\Chris Rooney\Documents\My Dropbox\CodeRepo\EclipseWorkspace\TangibleInvestigator\SifteoMonoProject\obj\x86\Debug\02_SlideShow.pdb

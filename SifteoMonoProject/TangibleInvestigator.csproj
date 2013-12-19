@@ -34,9 +34,6 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="Sifteo">
-      <HintPath>..\..\bin\Runtimes\mono\Current\sifteo\Sifteo.dll</HintPath>
-    </Reference>
     <Reference Include="Apache.NMS.ActiveMQ">
       <HintPath>..\..\..\..\Users\Chris Rooney\Development\Software\NMS.ActiveMQ.1.6.0\build\net-2.0\release\Apache.NMS.ActiveMQ.dll</HintPath>
     </Reference>
@@ -44,6 +41,9 @@
       <HintPath>..\..\..\..\Users\Chris Rooney\Development\Software\NMS.ActiveMQ.1.6.0\build\net-2.0\release\Apache.NMS.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml" />
+    <Reference Include="Sifteo">
+      <HintPath>..\..\..\..\..\..\..\..\Sifteo\Sifteo-SDK-1_1_3\bin\Runtimes\mono\Current\sifteo\Sifteo.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bootstrap.cs" />

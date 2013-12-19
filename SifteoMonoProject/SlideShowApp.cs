@@ -38,7 +38,7 @@ namespace SlideShow
 		{
 
 			AMQConnector amqConn = new AMQConnector ();
-			amqConn.Connect ();
+			//amqConn.Connect ();
 
 			// Load up the list of images.
 			mImageNames = LoadImageIndex ();
